@@ -1,2 +1,2 @@
 # Student
-this is an example of a class.
+this is an example of a class definition called student.
